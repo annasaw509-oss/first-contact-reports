@@ -1,2 +1,2 @@
 int menu();
-void obsluga_menu();
+void obsluga_menu(); 
